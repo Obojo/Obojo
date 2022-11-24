@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Obojo
-- 👀 I’m interested in Data Science and Pen testing
-- 🌱 I’m currently learning software engineering with ALX
+- 👀 I’m interested in Cyber Security and s/w dev.
+- 🌱 I’m currently learning Software Engineering with ALX
 - 💞️ I’m looking to collaborate python projects.
 - 📫 How to reach me, email me adykeeng@gmail.com
 
